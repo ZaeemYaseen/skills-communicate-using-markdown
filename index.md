@@ -9,3 +9,11 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - **i have added picture**
+
+
+``` c++
+#include<iostream>
+using namespace std;
+string myVar = "Hello, world!";
+print(vmyVar);
+```
