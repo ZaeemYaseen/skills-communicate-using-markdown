@@ -10,6 +10,7 @@
 
 - **i have added picture**
 
+<br />
 
 ``` c++
 #include<iostream>
@@ -17,3 +18,15 @@ using namespace std;
 string myVar = "Hello, world!";
 print(vmyVar);
 ```
+- **i have added coding**
+
+
+
+<br />
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
+
+- **i have added task lists**
+
